@@ -1,4 +1,5 @@
 process printBrackets {
+    container 'ubuntu:22.04'
     debug true
 
     script:
